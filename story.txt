@@ -1,0 +1,2 @@
+Once upon a time, there was a smart student learning Git.  
+The student practiced every day and became a Git pro.
